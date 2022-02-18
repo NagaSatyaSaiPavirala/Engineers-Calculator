@@ -1,5 +1,6 @@
-# testing
-Testing pages
+# Engineer's Calculator
+
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://nagasatyasaipavirala.github.io/testing/)
 
-This site was built using [GitHub Pages](https://nagasatyasaipavirala.github.io/testing/).
+This project is very helpful for engineering students for performing calculations that are needed in their academic subjects and daily calculations.
+
