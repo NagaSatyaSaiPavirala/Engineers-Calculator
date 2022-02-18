@@ -6,3 +6,5 @@ This project is very helpful for engineering students for performing calculation
 
 SCREENSHOTS:
 
+![Alt text](Light mode.png)
+
