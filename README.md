@@ -6,5 +6,5 @@ This project is very helpful for engineering students for performing calculation
 
 SCREENSHOTS:
 
-![Alt text](Light mode.png)
+![Alt text](https://nagasatyasaipavirala.github.io/Engineers-Calculator/Light%20mode.png)
 
