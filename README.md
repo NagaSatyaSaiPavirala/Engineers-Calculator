@@ -6,5 +6,18 @@ This project is very helpful for engineering students for performing calculation
 
 SCREENSHOTS:
 
+Light Mode
+
 ![Alt text](https://nagasatyasaipavirala.github.io/Engineers-Calculator/Light%20mode.png)
 
+Dark Mode
+
+![Alt text](https://nagasatyasaipavirala.github.io/Engineers-Calculator/Dark%20mode.png)
+
+Input
+
+![Alt text](https://nagasatyasaipavirala.github.io/Engineers-Calculator/Input.png)
+
+Output
+
+![Alt text](https://nagasatyasaipavirala.github.io/Engineers-Calculator/Output.png)
